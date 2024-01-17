@@ -1,0 +1,46 @@
+.Box-1{
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+}
+.Box-2{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+}
+.Box-3{
+    width: 100px;
+    height: 100px;
+    background-color: #c8d5cb;
+}
+
+.middle{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Box-4{
+    width: 100px;
+    height: 100px;
+    background-color: lightseagreen;
+}
+
+.Box-5{
+    width: 100px;
+    height: 100px;
+    background-color: lightsalmon;
+}
+
+.super-container{
+    display: flex;
+
+    justify-content: space-between;
+    /* margin: 20px 40px ; */
+}
+
+.header{
+    background-color: lightslategray;
+}
